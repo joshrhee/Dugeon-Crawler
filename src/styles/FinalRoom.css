@@ -1,0 +1,11 @@
+#ExitFromGameScene {
+    -fx-background-image: url('/content/background0.png');
+}
+
+#PlayerStats {
+    -fx-background-color: white;
+}
+
+#RoomName {
+    -fx-font-size: 45pt;
+}

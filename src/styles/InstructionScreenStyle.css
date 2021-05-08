@@ -1,0 +1,35 @@
+.root{
+    -fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #f50b0b, blue);
+    -fx-font-size: 15pt;
+}
+
+.label{
+    -fx-text-fill: #14e5e5;
+    -fx-text-alignment: center;
+}
+
+#instruction1 {
+    -fx-text-fill: #efb8b8;
+}
+
+#instruction2 {
+    -fx-text-fill: #eac81c;
+}
+
+#instruction3 {
+    -fx-text-fill: #4fe50f;
+}
+
+#instruction4 {
+    -fx-text-fill: #1beee7;
+}
+
+#instruction5 {
+    -fx-text-fill: #1a4ad7;
+}
+
+#goBackHelpSceneBtn{
+    -fx-background-color: #0ae3ea;
+    -fx-text-fill: black;
+}
+

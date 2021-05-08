@@ -1,0 +1,20 @@
+Rahul:
+Monster health
+Monster attack 
+
+Sang:
+Check congratulations when player health > 0
+Check Defeat when player health <= 0
+
+Stuti:
+Check 3 stats exist
+Check Health stat is accurate (compare it to the player object)
+
+Utkarsh:
+Check Money stat is accurate (compare it to the player object)
+Check Player hit stat is accurate (compare it to the player object)
+
+Reza:
+Challenge room text
+Challenge room button exists
+

@@ -1,0 +1,52 @@
+.root{
+    -fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #f50b0b, blue);
+    -fx-font-size: 25pt;
+}
+
+
+.button{
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
+
+.label{
+    -fx-font-weight: bold;
+}
+
+#WELCOME{
+    -fx-text-fill: #f10635;
+}
+#NULLGROUP44{
+    -fx-text-fill: #c507e7;
+}
+#DUNGEONCRAWLER{
+    -fx-text-fill: #39dd0a;
+}
+#STARTINGPAGE{
+     -fx-text-fill: #e5a709;
+ }
+
+#name0{
+    -fx-font-size: 18pt;
+    -fx-text-fill: #eec8c8;
+}
+#name1{
+    -fx-font-size: 18pt;
+    -fx-text-fill: #ea3609;
+}
+#name2{
+    -fx-font-size: 18pt;
+    -fx-text-fill: #eac81c;
+}
+#name3{
+    -fx-font-size: 18pt;
+    -fx-text-fill: #4fe50f;
+}
+#name4{
+    -fx-font-size: 18pt;
+    -fx-text-fill: #1beee7;
+}
+#name5{
+    -fx-font-size: 18pt;
+    -fx-text-fill: #4758ee;
+}
